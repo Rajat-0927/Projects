@@ -1,6 +1,6 @@
 # # addition of two numbers
 # a=input("enter first number: ")
-# a=int(a)
+# a=int(a)//type casting b'z input returns str value.
 # b=input("enter second number: ")
 # b=int(b)
 # print("the additon of a nd b is ",a+b)
